@@ -1,0 +1,28 @@
+name: Colours  Foto
+favicon: null
+layout_spectrum: 0.07994755171239376
+typography_spectrum: 0.8207298337947577
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1208454582374543
+  lightness: 0.23493682872503996
+  saturation: 0.8057290862780064
+  rhythmicContrast: 0.0802016737870872
+purpose: []
