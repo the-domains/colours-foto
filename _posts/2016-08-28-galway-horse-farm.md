@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-31T14:42:05.198Z'
+datePublished: '2016-08-31T14:42:17.493Z'
+sourcePath: _posts/2016-08-28-galway-horse-farm.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T13:58:23.507Z'
+dateModified: '2016-08-31T14:42:17.016Z'
 title: Galway Horse Farm
 publisher:
   name: Len Lambert
 description: Colour’s Foto Gallery… a place to see my work. Enjoy!
-sourcePath: _posts/2016-08-28-galway-horse-farm.md
 starred: false
 _type: Blurb
 
